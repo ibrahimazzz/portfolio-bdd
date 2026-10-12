@@ -9,6 +9,7 @@ Base de données complète pour une librairie : clients, livres, auteurs et comm
 - Requêtes avec jointures, regroupements et agrégats
 
 ## MCD (cardinalités)
+![MCD de la librairie](mcd.png)
 
 | Entité A | Association | Entité B |
 |---|---|---|
